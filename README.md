@@ -12,11 +12,7 @@ I'm currently navigating the challenging yet exhilarating path of engineering, s
 
 ## Projects
 
-Here, you'll find a selection of my projects that showcase my skills and interests. Each project includes a detailed README with an overview, installation instructions, usage examples, and contribution guidelines.
-
-- **Project 1:** [Smart Manufacturing System Simulation](#) - A simulation of a smart factory leveraging IoT and AI for optimized production.
-- **Project 2:** [AI-Based Predictive Maintenance](#) - Utilizing machine learning algorithms to predict machinery failures before they happen.
-- **Project 3:** [Real-Time Data Analysis Platform](#) - A platform for analyzing and visualizing data in real-time to support decision-making processes.
+*****************
 
 ## Skills
 
